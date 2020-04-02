@@ -7,7 +7,11 @@ import java.util.List;
 import java.util.Map;
 
 import com.model.studentinfo;
-
+/**
+ * 
+ * @author HP
+ *
+ */
 public class studentinfodao {
 	private Dbhelper helper;
 	public studentinfodao() {
