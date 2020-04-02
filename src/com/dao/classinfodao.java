@@ -5,7 +5,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.model.classinfo;
-
+/**
+ * 
+ * @author HP
+ *
+ */
 public class classinfodao {
 	private Dbhelper helper;
 	public classinfodao(){
